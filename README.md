@@ -2,6 +2,7 @@
 A Gift suggestor based on a person's facebook profile information.
 #Getting Started.
 1. http://machinelearningmastery.com/machine-learning-for-programmers/
+2. Have a look at this list to get a hang of all that is possible . http://blog.mashape.com/list-of-50-machine-learning-apis/
 
 
 #Picking the color
